@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calendario</string>
+    <string name="form_hint_nombre">"Nombre Completo "</string>
+    <string name="form_hint_telefono">Teléfono</string>
+    <string name="form_hint_email">Email</string>
+    <string name="form_hint_descripcioncontacto">Descripción de contacto</string>
+    <string name="boton_siguiente">Siguiente</string>
+    <string name="Editar">Editar Datos</string>
+</resources>
